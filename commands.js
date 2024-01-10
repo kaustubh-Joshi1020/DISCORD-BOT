@@ -1,5 +1,5 @@
 import { REST, Routes } from 'discord.js';
-const TOKEN = 'MTE5Mzg1NDMyNTQxNjUzODE0Mg.GWMdKz.NQXn0rJffZUJRhOpNKMPHCddZnynNNY2s9xhlI'
+const TOKEN = ''
 const CLIENT_ID =''  // find your CLIENT_ID in discord developer portal
 const commands = [
   {
